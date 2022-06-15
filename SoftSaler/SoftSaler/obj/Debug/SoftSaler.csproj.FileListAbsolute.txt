@@ -1,0 +1,12 @@
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\bin\Debug\SoftSaler.exe.config
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\bin\Debug\SoftSaler.exe
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\bin\Debug\SoftSaler.pdb
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\obj\Debug\SoftSaler.csproj.AssemblyReference.cache
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\obj\Debug\SoftSaler.Form1.resources
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\obj\Debug\SoftSaler.Properties.Resources.resources
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\obj\Debug\SoftSaler.csproj.GenerateResource.cache
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\obj\Debug\SoftSaler.csproj.CoreCompileInputs.cache
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\obj\Debug\SoftSaler.exe
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\obj\Debug\SoftSaler.pdb
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\obj\Debug\SoftSaler.adminMenu.resources
+C:\Users\egrse\source\repos\SoftSaler\SoftSaler\obj\Debug\SoftSaler.clientAdd.resources
